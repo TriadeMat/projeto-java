@@ -1,0 +1,7 @@
+public class Main{
+public station void 
+       main (String [] args){
+
+}
+
+}
